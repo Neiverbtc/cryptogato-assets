@@ -1,0 +1,9 @@
+{
+  "0x7B945Fb810eBE9646e2842eBC25cf1ADEC3fc5a3": {
+    "name": "CryptoGato",
+    "logo": "https://raw.githubusercontent.com/Neiverbtc/cryptogato-assets/main/logos/cgato-256x256.png",
+    "erc20": true,
+    "symbol": "CGATO",
+    "decimals": 18
+  }
+}

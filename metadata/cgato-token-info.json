@@ -1,0 +1,31 @@
+{
+  "name": "CryptoGato",
+  "symbol": "CGATO",
+  "address": "0x7B945Fb810eBE9646e2842eBC25cf1ADEC3fc5a3",
+  "decimals": 18,
+  "chainId": 137,
+  "logoURI": "https://raw.githubusercontent.com/Neiverbtc/cryptogato-assets/main/logos/cgato-256x256.png",
+  "tags": [
+    "deflationary",
+    "staking",
+    "yield-farming",
+    "polygon"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "extensions": {
+    "website": "https://cryptogato.io",
+    "description": "CryptoGato (CGATO) is a deflationary DeFi token on Polygon with advanced staking mechanisms, yield farming opportunities, and a robust tokenomics model. Max supply: 10 billion tokens with current circulating supply of ~100 million.",
+    "explorer": "https://polygonscan.com/token/0x7B945Fb810eBE9646e2842eBC25cf1ADEC3fc5a3",
+    "twitter": "@CryptoGatoToken",
+    "github": "https://github.com/Neiverbtc/cryptogato-assets",
+    "telegram": "https://t.me/cryptogato",
+    "discord": "https://discord.gg/cryptogato",
+    "medium": "https://medium.com/@cryptogato",
+    "coingecko": "cryptogato",
+    "coinmarketcap": "cryptogato"
+  }
+}
